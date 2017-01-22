@@ -1,3 +1,3 @@
 # configFiles
 Branch test.
-Git is quick & simple.
+Git is quick and simple.
